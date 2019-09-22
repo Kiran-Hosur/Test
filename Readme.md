@@ -34,7 +34,7 @@ this is line 2
 > This is a block quote 1\
 > This is a block quote 2
 
-This is where you can watch [Video](https://www.youtube.com)
+This is where you can watch youtube [Video](https://www.youtube.com)
 
 ***
 Horizontal Lines
